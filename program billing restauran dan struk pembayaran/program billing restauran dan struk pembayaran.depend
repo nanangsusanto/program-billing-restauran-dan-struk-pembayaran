@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546659166 source:d:\program billing restauran dan struk pembayaran\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
